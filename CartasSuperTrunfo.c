@@ -232,7 +232,7 @@ int main() {
     printf("Super Poder Carta 1: (%f)\n", SuperPoder1);
     printf("Super Poder Carta 2: (%f)\n", SuperPoder2);
     printf("Super Poder Carta 1 venceu (%d)\n", SuperPoder1 > SuperPoder2);
- 
+
     
     return 0;
 }
